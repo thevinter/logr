@@ -1,0 +1,7 @@
+.logElement {
+    padding-right: 0px;
+}
+
+.logElement:not(:last-child){
+    padding-right: 10px;
+}
